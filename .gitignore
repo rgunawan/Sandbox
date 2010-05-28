@@ -10,3 +10,10 @@ _ReSharper.*
 *.cache
 ~$*
 
+
+.ReSharper.user
+.vsmdi
+.testsettings
+.hg
+.svn
+.trx
