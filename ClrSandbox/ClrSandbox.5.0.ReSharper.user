@@ -1,0 +1,72 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/f:UnitTest1.cs" caret="923" fromTop="38" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:Array/f:ArrayCloneTest.cs" caret="0" fromTop="0" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="721" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:Array/f:ArrayCloneTest.cs" caret="0" fromTop="0" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="206" fromTop="5" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="1195" fromTop="15" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="142" fromTop="4" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="322" fromTop="12" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="697" fromTop="27" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="584" fromTop="22" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="950" fromTop="32" />
+      <File id="3A6C3A57-597C-4C09-A044-79E436FDB3C7/d:List/f:ToArrayGivesTwoObjectsTest.cs" caret="1094" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="List" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="theList" priority="3" />
+      <Item value="var" priority="3" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="firstArray" priority="0" />
+      <Item value="secondArray" priority="0" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="GetTarget`0" priority="0" />
+      <Item value="_theList" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Linq" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AddRange`0" priority="0" />
+      <Item value="ToArray`0" priority="1" />
+      <Item value="Select`2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreNotSame`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

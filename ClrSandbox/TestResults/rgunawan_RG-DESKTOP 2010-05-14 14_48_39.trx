@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9705827d-42b5-4e99-9b9a-e20691056b5d" name="rgunawan@RG-DESKTOP 2010-05-14 14:48:39" runUser="PROD\rgunawan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5d520370-9fe2-4cb0-b436-3ac004a8ac73">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rgunawan_RG-DESKTOP 2010-05-14 14_48_39" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-05-14T14:48:39.4202873-05:00" queuing="2010-05-14T14:48:39.7632873-05:00" start="2010-05-14T14:48:39.8012873-05:00" finish="2010-05-14T14:48:40.1242873-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\projects\sandbox\clrsandbox\clrsandbox\bin\debug\clrsandbox.dll" id="2aa190f2-ee14-129c-39d9-ce5eaf50203c">
+      <Execution id="17ca883f-ab97-4047-838c-fb5d21e40ccc" />
+      <TestMethod codeBase="D:/Projects/Sandbox/ClrSandbox/ClrSandbox/bin/Debug/ClrSandbox.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ClrSandbox.UnitTest1, ClrSandbox, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TryJaggedArraySpeed" storage="d:\projects\sandbox\clrsandbox\clrsandbox\bin\debug\clrsandbox.dll" id="d563a9db-8541-67b0-61a9-0ec394a0fcf4">
+      <Execution id="e6395feb-a6de-4352-802c-e3a961eecb6c" />
+      <TestMethod codeBase="D:/Projects/Sandbox/ClrSandbox/ClrSandbox/bin/Debug/ClrSandbox.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArrayTest.JaggedArrayTest, ClrSandbox, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TryJaggedArraySpeed" />
+    </UnitTest>
+    <UnitTest name="AllJaggedArrayTests" storage="d:\projects\sandbox\clrsandbox\clrsandbox\bin\debug\clrsandbox.dll" id="99a4c062-135f-dfef-3128-721d5c99a3e2">
+      <Execution id="8aa1cef6-2125-4fc3-93cc-e0808991b172" />
+      <TestMethod codeBase="D:/Projects/Sandbox/ClrSandbox/ClrSandbox/bin/Debug/ClrSandbox.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArrayTest.JaggedArrayTest, ClrSandbox, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllJaggedArrayTests" />
+    </UnitTest>
+    <UnitTest name="SimpleCloneEquality" storage="d:\projects\sandbox\clrsandbox\clrsandbox\bin\debug\clrsandbox.dll" id="5f542b35-a1ce-a7f7-29b4-4f0b5e7a42df">
+      <Execution id="a425574f-bc93-4d7e-86c3-28ebfe13570d" />
+      <TestMethod codeBase="D:/Projects/Sandbox/ClrSandbox/ClrSandbox/bin/Debug/ClrSandbox.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArrayTest.ArrayCloneTest, ClrSandbox, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SimpleCloneEquality" />
+    </UnitTest>
+    <UnitTest name="TryMultiDimensionalArraySpeed" storage="d:\projects\sandbox\clrsandbox\clrsandbox\bin\debug\clrsandbox.dll" id="7a5b2d65-4f97-9698-7fc8-88632e4b84ed">
+      <Execution id="01c4743d-4a89-48f2-ba22-f9029090c5d3" />
+      <TestMethod codeBase="D:/Projects/Sandbox/ClrSandbox/ClrSandbox/bin/Debug/ClrSandbox.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ArrayTest.JaggedArrayTest, ClrSandbox, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TryMultiDimensionalArraySpeed" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2aa190f2-ee14-129c-39d9-ce5eaf50203c" executionId="17ca883f-ab97-4047-838c-fb5d21e40ccc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5f542b35-a1ce-a7f7-29b4-4f0b5e7a42df" executionId="a425574f-bc93-4d7e-86c3-28ebfe13570d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a5b2d65-4f97-9698-7fc8-88632e4b84ed" executionId="01c4743d-4a89-48f2-ba22-f9029090c5d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99a4c062-135f-dfef-3128-721d5c99a3e2" executionId="8aa1cef6-2125-4fc3-93cc-e0808991b172" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d563a9db-8541-67b0-61a9-0ec394a0fcf4" executionId="e6395feb-a6de-4352-802c-e3a961eecb6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="17ca883f-ab97-4047-838c-fb5d21e40ccc" testId="2aa190f2-ee14-129c-39d9-ce5eaf50203c" testName="TestMethod1" computerName="RG-DESKTOP" duration="00:00:00.0099479" startTime="2010-05-14T14:48:39.8072873-05:00" endTime="2010-05-14T14:48:40.0132873-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17ca883f-ab97-4047-838c-fb5d21e40ccc">
+    </UnitTestResult>
+    <UnitTestResult executionId="a425574f-bc93-4d7e-86c3-28ebfe13570d" testId="5f542b35-a1ce-a7f7-29b4-4f0b5e7a42df" testName="SimpleCloneEquality" computerName="RG-DESKTOP" duration="00:00:00.0003262" startTime="2010-05-14T14:48:40.0142873-05:00" endTime="2010-05-14T14:48:40.0172873-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a425574f-bc93-4d7e-86c3-28ebfe13570d">
+    </UnitTestResult>
+    <UnitTestResult executionId="01c4743d-4a89-48f2-ba22-f9029090c5d3" testId="7a5b2d65-4f97-9698-7fc8-88632e4b84ed" testName="TryMultiDimensionalArraySpeed" computerName="RG-DESKTOP" duration="00:00:00.0087384" startTime="2010-05-14T14:48:40.0192873-05:00" endTime="2010-05-14T14:48:40.0302873-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="01c4743d-4a89-48f2-ba22-f9029090c5d3">
+      <Output>
+        <TextMessages>
+          <Message>multi dim creation: 00:00:00.0003211</Message>
+          <Message>multidimarray rank:2</Message>
+          <Message>multi dim array access &amp; replace time: 00:00:00.0002408</Message>
+        </TextMessages>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8aa1cef6-2125-4fc3-93cc-e0808991b172" testId="99a4c062-135f-dfef-3128-721d5c99a3e2" testName="AllJaggedArrayTests" computerName="RG-DESKTOP" duration="00:00:00.0033546" startTime="2010-05-14T14:48:40.0312873-05:00" endTime="2010-05-14T14:48:40.0382873-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8aa1cef6-2125-4fc3-93cc-e0808991b172">
+      <Output>
+        <TextMessages>
+          <Message>multi dim creation: 00:00:00.0002658</Message>
+          <Message>multidimarray rank:2</Message>
+          <Message>multi dim array access &amp; replace time: 00:00:00.0002119</Message>
+          <Message>jagged creation: 00:00:00</Message>
+          <Message>jaggedArray rank:1</Message>
+          <Message>jagged array access &amp; replace time: 00:00:00.0000700</Message>
+        </TextMessages>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e6395feb-a6de-4352-802c-e3a961eecb6c" testId="d563a9db-8541-67b0-61a9-0ec394a0fcf4" testName="TryJaggedArraySpeed" computerName="RG-DESKTOP" duration="00:00:00.0014778" startTime="2010-05-14T14:48:40.0392873-05:00" endTime="2010-05-14T14:48:40.0432873-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e6395feb-a6de-4352-802c-e3a961eecb6c">
+      <Output>
+        <TextMessages>
+          <Message>jagged creation: 00:00:00</Message>
+          <Message>jaggedArray rank:1</Message>
+          <Message>jagged array access &amp; replace time: 00:00:00.0000795</Message>
+        </TextMessages>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

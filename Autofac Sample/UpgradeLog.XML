@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Remember">
+</Property><Property Name="Solution File" Value="C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Remember.sln">
+</Property><Property Name="Date" Value="Saturday, May 08, 2010">
+</Property><Property Name="Time" Value="12:47:45 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Remember" Source="Remember.csproj" Description="Project file successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\Remember.csproj">
+</Event><Event ErrorLevel="0" Project="Remember" Source="IMemoDueNotifier.cs" Description="File successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\IMemoDueNotifier.cs">
+</Event><Event ErrorLevel="0" Project="Remember" Source="Memo.cs" Description="File successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\Memo.cs">
+</Event><Event ErrorLevel="0" Project="Remember" Source="MemoChecker.cs" Description="File successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\MemoChecker.cs">
+</Event><Event ErrorLevel="0" Project="Remember" Source="Program.cs" Description="File successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Remember" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Remember" Source="PrintingNotifier.cs" Description="File successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\PrintingNotifier.cs">
+</Event><Event ErrorLevel="0" Project="Remember" Source="Remember.cd" Description="File successfully backed up as C:\Users\vizioncore\Documents\Projects\Sandbox\Autofac Sample\Backup\Remember.cd">
+</Event><Event ErrorLevel="0" Project="Remember" Source="Remember.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Remember" Source="Remember.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Remember" Source="Remember.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
