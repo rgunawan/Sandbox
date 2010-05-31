@@ -9,12 +9,20 @@ namespace PowerShellSandbox
     {
         static void Main(string[] args)
         {
-            TestRunPowerShellFromCSharp();
+            //TestRunPowerShellFromCSharp();
+
+            RunUsePowerShellCreate();
         }
 
         private static void TestRunPowerShellFromCSharp()
         {
             var runner = new RunPowerShellFromCSharp();
+            runner.Run();
+        }
+
+        private static void RunUsePowerShellCreate()
+        {
+            var runner = new UsePowerShellCreate();
             runner.Run();
         }
     }
